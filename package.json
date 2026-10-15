@@ -66,7 +66,8 @@
           "title": "Self-hosted",
           "value": "self-hosted"
         }
-      ]
+      ],
+      "default": "feishu"
     },
     {
       "name": "selfHostedDomain",
