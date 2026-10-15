@@ -1,3 +1,5 @@
+<!-- Filed upstream: https://github.com/abue-ammar/tinycast/issues/1592 (2026-10-15) -->
+
 # Issue draft for abue-ammar/tinycast
 
 > Title: Raycast runtime: 5 Node-semantics gaps break `got`-based extensions (repro: Raycast "Lark Documents")
